@@ -1,0 +1,21 @@
+{
+    "name": "informes/toeisi",
+    "description": "Generador de informes sencillos en excel",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Takyo"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "1.8.2"
+    },
+    "autoload": {
+        "classmap": [
+            "src/toeisi.php"
+        ]
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^5"
+    }
+}
