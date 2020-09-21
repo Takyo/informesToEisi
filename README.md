@@ -1,6 +1,6 @@
-# informesToEisi
-genracion de informes muy faciles
+#ESelToEisi
+generáción de informes muy fściles
 
 
 TODO
-[ ] opcion que estire las columnas automaticamente para verse mejor
+- [ ] opción que estire las columnas automaticamente para verse mejor

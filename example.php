@@ -123,7 +123,7 @@ $datos04_c = array(
 );
 // $excel->setHeader($headers);
 
-// $excel->generate($datos01,$simple);
+$excel->generate($datos01,$simple);
 // $excel->generate($datos02,$simple);
 // $excel->generate($datos03,$simple);
 // $excel->generate($datos03_b,$simple);
